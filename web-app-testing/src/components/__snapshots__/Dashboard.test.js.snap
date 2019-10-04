@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div
+    class="fancy-div"
+    data-testid="divtag"
+  >
+    <div
+      class="sc-bdVaJa dGBYUF testDiv"
+    >
+      <h3>
+        DASHBOARD JS COMPONENT
+      </h3>
+      ​
+      <div
+        class="sc-bxivhb dEQSLd"
+      >
+        <div
+          class="sc-htpNat hQgnAa"
+        >
+          <div
+            class="sc-ifAKCX ktDDNN counter"
+          >
+            0
+          </div>
+          <button
+            class="testButton"
+          >
+            BALL
+          </button>
+          <p>
+            Ball Count: 0 after 4 balls
+          </p>
+        </div>
+        ​
+        <div
+          class="sc-htpNat hQgnAa"
+        >
+          <div
+            class="sc-ifAKCX ktDDNN counter"
+          >
+            0
+          </div>
+          <button
+            class="testButton"
+          >
+            STRIKE
+          </button>
+          <p>
+            Strike Count: 0 after 3 strikes
+          </p>
+        </div>
+        ​ ​
+        <div
+          class="sc-htpNat hQgnAa"
+        >
+          <div
+            class="sc-EHOje cfUrMf counter"
+          >
+            <button
+              class="testButton"
+            >
+              FOUL
+            </button>
+          </div>
+          <p>
+            Foul Count: up to 2 fouls, also increases strike count?
+          </p>
+        </div>
+        ​
+        <div
+          class="sc-htpNat hQgnAa"
+        >
+          <div
+            class="sc-EHOje cfUrMf counter"
+          >
+            <button
+              class="testButton"
+            >
+              HIT
+            </button>
+          </div>
+          <p>
+            Hit Count: no params defined in the ReadMe...
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
